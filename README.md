@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to Openpesa
 
-You can use the [editor on GitHub](https://github.com/openpesa/openpesa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## What is Openpesa
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- Openpesa is a community driven organisation  -->
 
-### Markdown
+A group of individuals who have banded together to build open-source, solid, well-tested integration solutions to payment gateways using modern standards. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Currently focusing on Vodacom Mpesa OpenAPI
 
-```markdown
-Syntax highlighted code block
+Based In Tanzania.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Why Openpesa
 
-1. Numbered
-2. List
+We’re doing this instead of releasing code under our personal accounts for a few reasons, but the main reason is this:
 
-**Bold** and _Italic_ and `Code` text
+- A problem shared is a problem halved. Working together we take care of business quicker, can get more feedback and respond to issues and pull requests faster.
 
-[Link](url) and ![Image](src)
-```
+-  There are no plans to reinvent any wheels, unless those wheels are old, broken, unsafe or horrible to use. If the code cannot be installed with NOM, has an API written with BizZaroCapS, doesn’t have a single unit-test, is actually broken or the lead developer has abandoned the project, then that is a problem which can most likely be solved with a fresh start, and we’ll be on the case to make it as awesome as possible.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/openpesa/openpesa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
