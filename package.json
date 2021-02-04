@@ -1,7 +1,8 @@
 {
-  "name": "openpesa",
+  "name": "openpesa-site",
   "version": "0.0.0",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
