@@ -1,18 +1,19 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Openpesa',
+  tagline: 'Online payments API',
+  url: 'https://openpesa.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'openpesa', // Usually your GitHub org/user name.
+  projectName: 'openpesa.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Openpesa',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Openpesa Logo',
+        srcDark: 'img/openpesa_logo.webp',
         src: 'img/logo.svg',
       },
       items: [
@@ -24,7 +25,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/openpesa/openpesa.github.io',
           label: 'GitHub',
           position: 'right',
         },
@@ -51,15 +52,15 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://stackoverflow.com/questions/tagged/openpesa',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Telegram',
+              href: 'https://t.me/openpesa',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/openpesa',
             },
           ],
         },
@@ -77,7 +78,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Openpesa, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -88,13 +89,12 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/openpesa/openpesa.github.io/edit/main/',
         },
         blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
+          showReadingTime: true,          
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/openpesa/openpesa.github.io/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
