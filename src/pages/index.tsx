@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
+        Openpesa solutions were designed from the ground up to be easily installed and
         used to get your website up and running quickly.
       </>
     ),
@@ -22,17 +22,17 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Openpesa solutions lets you focus on your bussiness logic, and we&apos;ll do the chores. Go
+        ahead and remove your custom implemtation.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by Modern technologies',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
+        Extend or customize your the logic by composition and overiding. Openpesa solutions can
         be extended while reusing the same header and footer.
       </>
     ),
@@ -89,7 +89,7 @@ function Home() {
             </div>
           </section>
         )}
-      </main>
+      </main>      
     </Layout>
   );
 }
