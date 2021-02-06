@@ -1,18 +1,19 @@
 ---
-slug: welcome-php
-title: Welcome Nodejs
+slug: welcome-php-sdk
+title: Welcome PHP SDK
 author: Alpha Olomi
-author_title: Core Engineer @ Openpesa
+author_title: Openpesa Core Team
 author_url: https://github.com/alphaolomi
 
 author_image_url: https://avatars.githubusercontent.com/alphaolomi
 tags: [announcement, php, sdk]
 ---
 
-Hello team
+Hello 👋
 
 Am happy to announce today we have version 0.0.1 of Pesa SDK for PHP
 
+<!-- truncate -->
 It supports the following features (via synchronous requests)
 
 - customer to business (C2B) single payment

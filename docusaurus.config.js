@@ -18,7 +18,7 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
+          to: 'docs/introduction',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
@@ -38,13 +38,10 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Guide',
+              to: 'docs/introduction',
             },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
+            
           ],
         },
         {
@@ -73,12 +70,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/openpesa',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Openpesa, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Openpesa, Org. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -87,6 +84,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/docs/',
           // Please change this to your repo.
           editUrl:
             'https://github.com/openpesa/openpesa.github.io/edit/main/',

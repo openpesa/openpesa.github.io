@@ -1,23 +1,23 @@
 ---
-id: sdk_intergation
+id: sdk_intergration
 title: Official SDKs / Libraries
 ---
 
-Our team and community have worked hard to bring MeiliSearch to almost all popular web development languages, frameworks, and deployment options.
+Our team and community have worked hard to bring Openpesa solutions to most popular web development languages, and frameworks.
 
 New integrations are constantly in development. If you'd like to contribute, see below.
 
 ## Payment API
 
-- Vodacom Mpesa OpenAPI (v)
-- Tigo Secure API (x) not supported yet
+- <span class="badge badge--success">v</span>Vodacom Mpesa OpenAPI
+- <span class="badge badge--warning">x</span>Tigo Secure API (x) not supported yet
 
 ## SDKs
 
 You can use API wrappers in your favorite language. These libraries support all API routes.
 
 - [PHP](https://openpesa.github.io/php-pesa/)
-- [Nodejs](https://openpesa.github.io/pess-js/)
+- [Nodejs](https://openpesa.github.io/pesa-js/)
 - [Python](https://github.com/openpesa/py-pesa)
   <!-- - [Java](#) 🚧 WIP -->
   <!-- - [Dart](#) 🚧 WIP -->

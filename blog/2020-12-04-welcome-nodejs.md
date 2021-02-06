@@ -1,17 +1,19 @@
 ---
-slug: welcome-nodejs
-title: Welcome Nodejs
+slug: welcome-nodejs-sdk
+title: Welcome Nodejs SDK
 author: Alpha Olomi
-author_title: Core Engineer @ Openpesa
+author_title: Openpesa Core Team
 author_url: https://github.com/alphaolomi
 
 author_image_url: https://avatars.githubusercontent.com/alphaolomi
 tags: [announcement, nodejs, sdk]
 ---
 
-Hey team,
+Hey 👋,
 
 Am excited to announce the release of Nodejs SDK.
+
+<!-- truncate -->
 
 Supporting all Mpesa API services
 

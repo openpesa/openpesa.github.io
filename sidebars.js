@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-    Guide: ['sdk_intergrations', 'contact'],
+    Guide: ['introduction','sdk_intergration', 'contact'],
   },
 };
