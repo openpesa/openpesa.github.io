@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{88:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome Nodejs SDK","permalink":"/blog/welcome-nodejs-sdk"},{"title":"Welcome PHP SDK","permalink":"/blog/welcome-php-sdk"},{"title":"Hello World from Openpesa","permalink":"/blog/hello-world"}]}')}}]);

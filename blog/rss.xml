@@ -4,9 +4,16 @@
         <title>Openpesa Blog</title>
         <link>https://openpesa.github.io/blog</link>
         <description>Openpesa Blog</description>
-        <lastBuildDate>Fri, 04 Dec 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome New Documentation]]></title>
+            <link>https://openpesa.github.io/blog/welcome-new-docs</link>
+            <guid>welcome-new-docs</guid>
+            <pubDate>Sun, 07 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello 👋,]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome Nodejs SDK]]></title>
             <link>https://openpesa.github.io/blog/welcome-nodejs-sdk</link>

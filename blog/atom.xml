@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://openpesa.github.io/blog</id>
     <title>Openpesa Blog</title>
-    <updated>2020-12-04T00:00:00.000Z</updated>
+    <updated>2021-02-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://openpesa.github.io/blog"/>
     <subtitle>Openpesa Blog</subtitle>
     <icon>https://openpesa.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome New Documentation]]></title>
+        <id>welcome-new-docs</id>
+        <link href="https://openpesa.github.io/blog/welcome-new-docs"/>
+        <updated>2021-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello 👋,]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome Nodejs SDK]]></title>
         <id>welcome-nodejs-sdk</id>
