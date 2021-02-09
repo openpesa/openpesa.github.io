@@ -33,6 +33,6 @@ Github Organization: https://github.com/openpesa
 
 Github repo: https://github.com/openpesa/pesa-js/tree/develop
 
-Docs: https://pesa-js.netlify.app/
+Docs: https://openpesa.github.io/pesa-js/
 
 OpenAPI portal: https://openapiportal.m-pesa.com

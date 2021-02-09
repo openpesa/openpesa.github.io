@@ -37,6 +37,6 @@ Github Organisation: https://github.com/openpesa
 
 Github repo: https://github.com/openpesa/php-pesa
 
-Docs: https://php-pesa.netlify.app/
+Docs: https://openpesa.github.io/php-pesa/
 
 OpenAPI porttal: https://openapiportal.m-pesa.com
